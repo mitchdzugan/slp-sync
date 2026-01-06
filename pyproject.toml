@@ -1,0 +1,5 @@
+[project]
+name = "slp-sync"
+
+[tool.pyside6-project]
+files = ["main.py", "main.qml"]
